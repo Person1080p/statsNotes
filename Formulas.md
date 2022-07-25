@@ -3,3 +3,5 @@
 - $\frac{3(N+1)}{4}$ $\rightarrow$ $Q_3$ Location
 - Wisker Max/Min Location = $ Q_1 $ OR $ Q_3 $ $\pm 1.5$ IQR
 - IQR = $Q_2 - Q_1$
+# HW 2/ Quiz 2
+- 
